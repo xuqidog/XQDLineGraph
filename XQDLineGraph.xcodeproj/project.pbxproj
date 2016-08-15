@@ -15,6 +15,21 @@
 		710B05C61D3774B9006F3138 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 710B05C41D3774B9006F3138 /* LaunchScreen.storyboard */; };
 		710B05D11D3774BA006F3138 /* XQDLineGraphTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 710B05D01D3774BA006F3138 /* XQDLineGraphTests.m */; };
 		710B05DC1D3774BA006F3138 /* XQDLineGraphUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 710B05DB1D3774BA006F3138 /* XQDLineGraphUITests.m */; };
+		710B05EC1D377A42006F3138 /* XQDLineChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 710B05EB1D377A42006F3138 /* XQDLineChart.m */; };
+		710B05F01D37A51E006F3138 /* TimeManage.m in Sources */ = {isa = PBXBuildFile; fileRef = 710B05EF1D37A51E006F3138 /* TimeManage.m */; };
+		710B05F31D387518006F3138 /* XQDScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 710B05F21D387518006F3138 /* XQDScrollView.m */; };
+		710B05F91D387B36006F3138 /* XQDColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 710B05F81D387B36006F3138 /* XQDColor.m */; };
+		71213F561D3CE78F0072C33F /* 参比血糖@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71213F541D3CE78F0072C33F /* 参比血糖@2x.png */; };
+		71213F571D3CE78F0072C33F /* 参比血糖@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71213F551D3CE78F0072C33F /* 参比血糖@3x.png */; };
+		71213F5C1D3CE7A30072C33F /* 胰岛素@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71213F581D3CE7A30072C33F /* 胰岛素@2x.png */; };
+		71213F5D1D3CE7A30072C33F /* 胰岛素@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71213F591D3CE7A30072C33F /* 胰岛素@3x.png */; };
+		71213F5E1D3CE7A30072C33F /* 用药@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71213F5A1D3CE7A30072C33F /* 用药@2x.png */; };
+		71213F5F1D3CE7A30072C33F /* 用药@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71213F5B1D3CE7A30072C33F /* 用药@3x.png */; };
+		71213F621D3CE7B90072C33F /* 运动@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71213F601D3CE7B90072C33F /* 运动@2x.png */; };
+		71213F631D3CE7B90072C33F /* 运动@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71213F611D3CE7B90072C33F /* 运动@3x.png */; };
+		71213F661D3CE7FA0072C33F /* 饮食@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71213F641D3CE7FA0072C33F /* 饮食@2x.png */; };
+		71213F671D3CE7FA0072C33F /* 饮食@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71213F651D3CE7FA0072C33F /* 饮食@3x.png */; };
+		714C47B41D38E77400DE3467 /* XQDPointView.m in Sources */ = {isa = PBXBuildFile; fileRef = 714C47B31D38E77400DE3467 /* XQDPointView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +66,27 @@
 		710B05D71D3774BA006F3138 /* XQDLineGraphUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XQDLineGraphUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		710B05DB1D3774BA006F3138 /* XQDLineGraphUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XQDLineGraphUITests.m; sourceTree = "<group>"; };
 		710B05DD1D3774BA006F3138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		710B05EA1D377A42006F3138 /* XQDLineChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XQDLineChart.h; sourceTree = "<group>"; };
+		710B05EB1D377A42006F3138 /* XQDLineChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XQDLineChart.m; sourceTree = "<group>"; };
+		710B05ED1D377B3D006F3138 /* XQDApi.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XQDApi.h; sourceTree = "<group>"; };
+		710B05EE1D37A51E006F3138 /* TimeManage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimeManage.h; sourceTree = "<group>"; };
+		710B05EF1D37A51E006F3138 /* TimeManage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TimeManage.m; sourceTree = "<group>"; };
+		710B05F11D387518006F3138 /* XQDScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XQDScrollView.h; sourceTree = "<group>"; };
+		710B05F21D387518006F3138 /* XQDScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XQDScrollView.m; sourceTree = "<group>"; };
+		710B05F71D387B36006F3138 /* XQDColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XQDColor.h; sourceTree = "<group>"; };
+		710B05F81D387B36006F3138 /* XQDColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XQDColor.m; sourceTree = "<group>"; };
+		71213F541D3CE78F0072C33F /* 参比血糖@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "参比血糖@2x.png"; sourceTree = "<group>"; };
+		71213F551D3CE78F0072C33F /* 参比血糖@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "参比血糖@3x.png"; sourceTree = "<group>"; };
+		71213F581D3CE7A30072C33F /* 胰岛素@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "胰岛素@2x.png"; sourceTree = "<group>"; };
+		71213F591D3CE7A30072C33F /* 胰岛素@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "胰岛素@3x.png"; sourceTree = "<group>"; };
+		71213F5A1D3CE7A30072C33F /* 用药@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "用药@2x.png"; sourceTree = "<group>"; };
+		71213F5B1D3CE7A30072C33F /* 用药@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "用药@3x.png"; sourceTree = "<group>"; };
+		71213F601D3CE7B90072C33F /* 运动@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "运动@2x.png"; sourceTree = "<group>"; };
+		71213F611D3CE7B90072C33F /* 运动@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "运动@3x.png"; sourceTree = "<group>"; };
+		71213F641D3CE7FA0072C33F /* 饮食@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "饮食@2x.png"; sourceTree = "<group>"; };
+		71213F651D3CE7FA0072C33F /* 饮食@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "饮食@3x.png"; sourceTree = "<group>"; };
+		714C47B21D38E77400DE3467 /* XQDPointView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XQDPointView.h; sourceTree = "<group>"; };
+		714C47B31D38E77400DE3467 /* XQDPointView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XQDPointView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +137,8 @@
 		710B05B51D3774B9006F3138 /* XQDLineGraph */ = {
 			isa = PBXGroup;
 			children = (
+				71213F531D3CE7890072C33F /* image */,
+				710B05E91D37795C006F3138 /* XQDLineChart */,
 				710B05B91D3774B9006F3138 /* AppDelegate.h */,
 				710B05BA1D3774B9006F3138 /* AppDelegate.m */,
 				710B05BC1D3774B9006F3138 /* ViewController.h */,
@@ -138,6 +176,41 @@
 				710B05DD1D3774BA006F3138 /* Info.plist */,
 			);
 			path = XQDLineGraphUITests;
+			sourceTree = "<group>";
+		};
+		710B05E91D37795C006F3138 /* XQDLineChart */ = {
+			isa = PBXGroup;
+			children = (
+				710B05ED1D377B3D006F3138 /* XQDApi.h */,
+				710B05EA1D377A42006F3138 /* XQDLineChart.h */,
+				710B05EB1D377A42006F3138 /* XQDLineChart.m */,
+				710B05EE1D37A51E006F3138 /* TimeManage.h */,
+				710B05EF1D37A51E006F3138 /* TimeManage.m */,
+				710B05F11D387518006F3138 /* XQDScrollView.h */,
+				710B05F21D387518006F3138 /* XQDScrollView.m */,
+				710B05F71D387B36006F3138 /* XQDColor.h */,
+				710B05F81D387B36006F3138 /* XQDColor.m */,
+				714C47B21D38E77400DE3467 /* XQDPointView.h */,
+				714C47B31D38E77400DE3467 /* XQDPointView.m */,
+			);
+			path = XQDLineChart;
+			sourceTree = "<group>";
+		};
+		71213F531D3CE7890072C33F /* image */ = {
+			isa = PBXGroup;
+			children = (
+				71213F641D3CE7FA0072C33F /* 饮食@2x.png */,
+				71213F651D3CE7FA0072C33F /* 饮食@3x.png */,
+				71213F541D3CE78F0072C33F /* 参比血糖@2x.png */,
+				71213F551D3CE78F0072C33F /* 参比血糖@3x.png */,
+				71213F581D3CE7A30072C33F /* 胰岛素@2x.png */,
+				71213F591D3CE7A30072C33F /* 胰岛素@3x.png */,
+				71213F5A1D3CE7A30072C33F /* 用药@2x.png */,
+				71213F5B1D3CE7A30072C33F /* 用药@3x.png */,
+				71213F601D3CE7B90072C33F /* 运动@2x.png */,
+				71213F611D3CE7B90072C33F /* 运动@3x.png */,
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +316,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71213F5F1D3CE7A30072C33F /* 用药@3x.png in Resources */,
+				71213F621D3CE7B90072C33F /* 运动@2x.png in Resources */,
+				71213F561D3CE78F0072C33F /* 参比血糖@2x.png in Resources */,
+				71213F571D3CE78F0072C33F /* 参比血糖@3x.png in Resources */,
 				710B05C61D3774B9006F3138 /* LaunchScreen.storyboard in Resources */,
+				71213F5E1D3CE7A30072C33F /* 用药@2x.png in Resources */,
+				71213F5D1D3CE7A30072C33F /* 胰岛素@3x.png in Resources */,
+				71213F631D3CE7B90072C33F /* 运动@3x.png in Resources */,
+				71213F661D3CE7FA0072C33F /* 饮食@2x.png in Resources */,
 				710B05C31D3774B9006F3138 /* Assets.xcassets in Resources */,
 				710B05C11D3774B9006F3138 /* Main.storyboard in Resources */,
+				71213F5C1D3CE7A30072C33F /* 胰岛素@2x.png in Resources */,
+				71213F671D3CE7FA0072C33F /* 饮食@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,9 +353,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				710B05EC1D377A42006F3138 /* XQDLineChart.m in Sources */,
+				710B05F31D387518006F3138 /* XQDScrollView.m in Sources */,
 				710B05BE1D3774B9006F3138 /* ViewController.m in Sources */,
+				714C47B41D38E77400DE3467 /* XQDPointView.m in Sources */,
+				710B05F01D37A51E006F3138 /* TimeManage.m in Sources */,
 				710B05BB1D3774B9006F3138 /* AppDelegate.m in Sources */,
 				710B05B81D3774B9006F3138 /* main.m in Sources */,
+				710B05F91D387B36006F3138 /* XQDColor.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,7 +505,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = XQDLineGraph/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xuqidong.XQDLineGraph;
+				PRODUCT_BUNDLE_IDENTIFIER = com.STKJWX.suiTang;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -428,7 +516,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = XQDLineGraph/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xuqidong.XQDLineGraph;
+				PRODUCT_BUNDLE_IDENTIFIER = com.STKJWX.suiTang;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -498,6 +586,7 @@
 				710B05E21D3774BA006F3138 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		710B05E31D3774BA006F3138 /* Build configuration list for PBXNativeTarget "XQDLineGraphTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +595,7 @@
 				710B05E51D3774BA006F3138 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		710B05E61D3774BA006F3138 /* Build configuration list for PBXNativeTarget "XQDLineGraphUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +604,7 @@
 				710B05E81D3774BA006F3138 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
